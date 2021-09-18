@@ -1,4 +1,6 @@
-# question_answer_app
+## Preview
+
+<img src="https://github.com/emrezeytun/basic-question-answer-system-VueJS/blob/main/question-answer-vueJS.gif">
 
 ## Project setup
 ```
